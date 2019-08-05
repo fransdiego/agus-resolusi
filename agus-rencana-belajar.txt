@@ -1,4 +1,7 @@
 Rencana Belajar Agus
 - harus belajar github
 - harus mengerti comment promp
-- belajar serius
+- belajar web
+  * harus mengerti HTML
+  * harus mengerti CSS
+  * Harus Mengerti Java SCript
